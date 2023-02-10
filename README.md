@@ -52,6 +52,9 @@
 * Crear y cambiarme a una rama nueva
     >\>&nbsp;&nbsp;git checkout -b "nombre_rama"
 
+* Eliminar una rama
+    >\>&nbsp;&nbsp;git checkout -d "nombre_rama"
+
 <br>
 
 ---
