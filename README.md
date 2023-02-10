@@ -55,6 +55,11 @@
 * Eliminar una rama
     >\>&nbsp;&nbsp;git checkout -d "nombre_rama"
 
+    >\>&nbsp;&nbsp;git checkout -d "nombre_rama" -f
+
+* Fusionar dos ramas
+    >\>&nbsp;&nbsp;git merge "nombre_rama"
+
 <br>
 
 ---
